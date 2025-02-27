@@ -1,0 +1,15 @@
+/home/picsartacademy/C#_code/task3/Employee/obj/Debug/net9.0/Employee.GeneratedMSBuildEditorConfig.editorconfig
+/home/picsartacademy/C#_code/task3/Employee/obj/Debug/net9.0/Employee.AssemblyInfoInputs.cache
+/home/picsartacademy/C#_code/task3/Employee/obj/Debug/net9.0/Employee.AssemblyInfo.cs
+/home/picsartacademy/C#_code/task3/Employee/obj/Debug/net9.0/Employee.csproj.CoreCompileInputs.cache
+/home/picsartacademy/C#_code/task3/Employee/obj/Debug/net9.0/Employee.sourcelink.json
+/home/picsartacademy/C#_code/task3/Employee/bin/Debug/net9.0/Employee
+/home/picsartacademy/C#_code/task3/Employee/bin/Debug/net9.0/Employee.deps.json
+/home/picsartacademy/C#_code/task3/Employee/bin/Debug/net9.0/Employee.runtimeconfig.json
+/home/picsartacademy/C#_code/task3/Employee/bin/Debug/net9.0/Employee.dll
+/home/picsartacademy/C#_code/task3/Employee/bin/Debug/net9.0/Employee.pdb
+/home/picsartacademy/C#_code/task3/Employee/obj/Debug/net9.0/Employee.dll
+/home/picsartacademy/C#_code/task3/Employee/obj/Debug/net9.0/refint/Employee.dll
+/home/picsartacademy/C#_code/task3/Employee/obj/Debug/net9.0/Employee.pdb
+/home/picsartacademy/C#_code/task3/Employee/obj/Debug/net9.0/Employee.genruntimeconfig.cache
+/home/picsartacademy/C#_code/task3/Employee/obj/Debug/net9.0/ref/Employee.dll

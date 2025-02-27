@@ -1,0 +1,15 @@
+/home/picsartacademy/C#_code/task3/shcool/obj/Debug/net9.0/shcool.GeneratedMSBuildEditorConfig.editorconfig
+/home/picsartacademy/C#_code/task3/shcool/obj/Debug/net9.0/shcool.AssemblyInfoInputs.cache
+/home/picsartacademy/C#_code/task3/shcool/obj/Debug/net9.0/shcool.AssemblyInfo.cs
+/home/picsartacademy/C#_code/task3/shcool/obj/Debug/net9.0/shcool.csproj.CoreCompileInputs.cache
+/home/picsartacademy/C#_code/task3/shcool/obj/Debug/net9.0/shcool.sourcelink.json
+/home/picsartacademy/C#_code/task3/shcool/bin/Debug/net9.0/shcool
+/home/picsartacademy/C#_code/task3/shcool/bin/Debug/net9.0/shcool.deps.json
+/home/picsartacademy/C#_code/task3/shcool/bin/Debug/net9.0/shcool.runtimeconfig.json
+/home/picsartacademy/C#_code/task3/shcool/bin/Debug/net9.0/shcool.dll
+/home/picsartacademy/C#_code/task3/shcool/bin/Debug/net9.0/shcool.pdb
+/home/picsartacademy/C#_code/task3/shcool/obj/Debug/net9.0/shcool.dll
+/home/picsartacademy/C#_code/task3/shcool/obj/Debug/net9.0/refint/shcool.dll
+/home/picsartacademy/C#_code/task3/shcool/obj/Debug/net9.0/shcool.pdb
+/home/picsartacademy/C#_code/task3/shcool/obj/Debug/net9.0/shcool.genruntimeconfig.cache
+/home/picsartacademy/C#_code/task3/shcool/obj/Debug/net9.0/ref/shcool.dll

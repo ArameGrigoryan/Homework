@@ -1,0 +1,15 @@
+/home/picsartacademy/C#_code/task4/E-CommerceProduct/obj/Debug/net9.0/E-CommerceProduct.GeneratedMSBuildEditorConfig.editorconfig
+/home/picsartacademy/C#_code/task4/E-CommerceProduct/obj/Debug/net9.0/E-CommerceProduct.AssemblyInfoInputs.cache
+/home/picsartacademy/C#_code/task4/E-CommerceProduct/obj/Debug/net9.0/E-CommerceProduct.AssemblyInfo.cs
+/home/picsartacademy/C#_code/task4/E-CommerceProduct/obj/Debug/net9.0/E-CommerceProduct.csproj.CoreCompileInputs.cache
+/home/picsartacademy/C#_code/task4/E-CommerceProduct/obj/Debug/net9.0/E-CommerceProduct.sourcelink.json
+/home/picsartacademy/C#_code/task4/E-CommerceProduct/bin/Debug/net9.0/E-CommerceProduct
+/home/picsartacademy/C#_code/task4/E-CommerceProduct/bin/Debug/net9.0/E-CommerceProduct.deps.json
+/home/picsartacademy/C#_code/task4/E-CommerceProduct/bin/Debug/net9.0/E-CommerceProduct.runtimeconfig.json
+/home/picsartacademy/C#_code/task4/E-CommerceProduct/bin/Debug/net9.0/E-CommerceProduct.dll
+/home/picsartacademy/C#_code/task4/E-CommerceProduct/bin/Debug/net9.0/E-CommerceProduct.pdb
+/home/picsartacademy/C#_code/task4/E-CommerceProduct/obj/Debug/net9.0/E-CommerceProduct.dll
+/home/picsartacademy/C#_code/task4/E-CommerceProduct/obj/Debug/net9.0/refint/E-CommerceProduct.dll
+/home/picsartacademy/C#_code/task4/E-CommerceProduct/obj/Debug/net9.0/E-CommerceProduct.pdb
+/home/picsartacademy/C#_code/task4/E-CommerceProduct/obj/Debug/net9.0/E-CommerceProduct.genruntimeconfig.cache
+/home/picsartacademy/C#_code/task4/E-CommerceProduct/obj/Debug/net9.0/ref/E-CommerceProduct.dll

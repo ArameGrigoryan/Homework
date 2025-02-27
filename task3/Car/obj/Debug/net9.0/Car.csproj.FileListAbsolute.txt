@@ -1,0 +1,15 @@
+/home/picsartacademy/C#_code/task3/Car/obj/Debug/net9.0/Car.GeneratedMSBuildEditorConfig.editorconfig
+/home/picsartacademy/C#_code/task3/Car/obj/Debug/net9.0/Car.AssemblyInfoInputs.cache
+/home/picsartacademy/C#_code/task3/Car/obj/Debug/net9.0/Car.AssemblyInfo.cs
+/home/picsartacademy/C#_code/task3/Car/obj/Debug/net9.0/Car.csproj.CoreCompileInputs.cache
+/home/picsartacademy/C#_code/task3/Car/obj/Debug/net9.0/Car.sourcelink.json
+/home/picsartacademy/C#_code/task3/Car/bin/Debug/net9.0/Car
+/home/picsartacademy/C#_code/task3/Car/bin/Debug/net9.0/Car.deps.json
+/home/picsartacademy/C#_code/task3/Car/bin/Debug/net9.0/Car.runtimeconfig.json
+/home/picsartacademy/C#_code/task3/Car/bin/Debug/net9.0/Car.dll
+/home/picsartacademy/C#_code/task3/Car/bin/Debug/net9.0/Car.pdb
+/home/picsartacademy/C#_code/task3/Car/obj/Debug/net9.0/Car.dll
+/home/picsartacademy/C#_code/task3/Car/obj/Debug/net9.0/refint/Car.dll
+/home/picsartacademy/C#_code/task3/Car/obj/Debug/net9.0/Car.pdb
+/home/picsartacademy/C#_code/task3/Car/obj/Debug/net9.0/Car.genruntimeconfig.cache
+/home/picsartacademy/C#_code/task3/Car/obj/Debug/net9.0/ref/Car.dll

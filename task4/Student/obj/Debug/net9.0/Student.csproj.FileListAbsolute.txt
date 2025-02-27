@@ -1,0 +1,15 @@
+/home/picsartacademy/C#_code/task4/Student/obj/Debug/net9.0/Student.GeneratedMSBuildEditorConfig.editorconfig
+/home/picsartacademy/C#_code/task4/Student/obj/Debug/net9.0/Student.AssemblyInfoInputs.cache
+/home/picsartacademy/C#_code/task4/Student/obj/Debug/net9.0/Student.AssemblyInfo.cs
+/home/picsartacademy/C#_code/task4/Student/obj/Debug/net9.0/Student.csproj.CoreCompileInputs.cache
+/home/picsartacademy/C#_code/task4/Student/obj/Debug/net9.0/Student.sourcelink.json
+/home/picsartacademy/C#_code/task4/Student/bin/Debug/net9.0/Student
+/home/picsartacademy/C#_code/task4/Student/bin/Debug/net9.0/Student.deps.json
+/home/picsartacademy/C#_code/task4/Student/bin/Debug/net9.0/Student.runtimeconfig.json
+/home/picsartacademy/C#_code/task4/Student/bin/Debug/net9.0/Student.dll
+/home/picsartacademy/C#_code/task4/Student/bin/Debug/net9.0/Student.pdb
+/home/picsartacademy/C#_code/task4/Student/obj/Debug/net9.0/Student.dll
+/home/picsartacademy/C#_code/task4/Student/obj/Debug/net9.0/refint/Student.dll
+/home/picsartacademy/C#_code/task4/Student/obj/Debug/net9.0/Student.pdb
+/home/picsartacademy/C#_code/task4/Student/obj/Debug/net9.0/Student.genruntimeconfig.cache
+/home/picsartacademy/C#_code/task4/Student/obj/Debug/net9.0/ref/Student.dll

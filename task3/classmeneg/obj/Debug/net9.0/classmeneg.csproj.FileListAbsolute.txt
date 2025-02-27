@@ -1,0 +1,15 @@
+/home/picsartacademy/C#_code/task3/classmeneg/bin/Debug/net9.0/classmeneg
+/home/picsartacademy/C#_code/task3/classmeneg/bin/Debug/net9.0/classmeneg.deps.json
+/home/picsartacademy/C#_code/task3/classmeneg/bin/Debug/net9.0/classmeneg.runtimeconfig.json
+/home/picsartacademy/C#_code/task3/classmeneg/bin/Debug/net9.0/classmeneg.dll
+/home/picsartacademy/C#_code/task3/classmeneg/bin/Debug/net9.0/classmeneg.pdb
+/home/picsartacademy/C#_code/task3/classmeneg/obj/Debug/net9.0/classmeneg.GeneratedMSBuildEditorConfig.editorconfig
+/home/picsartacademy/C#_code/task3/classmeneg/obj/Debug/net9.0/classmeneg.AssemblyInfoInputs.cache
+/home/picsartacademy/C#_code/task3/classmeneg/obj/Debug/net9.0/classmeneg.AssemblyInfo.cs
+/home/picsartacademy/C#_code/task3/classmeneg/obj/Debug/net9.0/classmeneg.csproj.CoreCompileInputs.cache
+/home/picsartacademy/C#_code/task3/classmeneg/obj/Debug/net9.0/classmeneg.sourcelink.json
+/home/picsartacademy/C#_code/task3/classmeneg/obj/Debug/net9.0/classmeneg.dll
+/home/picsartacademy/C#_code/task3/classmeneg/obj/Debug/net9.0/refint/classmeneg.dll
+/home/picsartacademy/C#_code/task3/classmeneg/obj/Debug/net9.0/classmeneg.pdb
+/home/picsartacademy/C#_code/task3/classmeneg/obj/Debug/net9.0/classmeneg.genruntimeconfig.cache
+/home/picsartacademy/C#_code/task3/classmeneg/obj/Debug/net9.0/ref/classmeneg.dll

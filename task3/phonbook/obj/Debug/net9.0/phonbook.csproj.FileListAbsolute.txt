@@ -1,0 +1,15 @@
+/home/picsartacademy/C#_code/task3/phonbook/obj/Debug/net9.0/phonbook.GeneratedMSBuildEditorConfig.editorconfig
+/home/picsartacademy/C#_code/task3/phonbook/obj/Debug/net9.0/phonbook.AssemblyInfoInputs.cache
+/home/picsartacademy/C#_code/task3/phonbook/obj/Debug/net9.0/phonbook.AssemblyInfo.cs
+/home/picsartacademy/C#_code/task3/phonbook/obj/Debug/net9.0/phonbook.csproj.CoreCompileInputs.cache
+/home/picsartacademy/C#_code/task3/phonbook/obj/Debug/net9.0/phonbook.sourcelink.json
+/home/picsartacademy/C#_code/task3/phonbook/bin/Debug/net9.0/phonbook
+/home/picsartacademy/C#_code/task3/phonbook/bin/Debug/net9.0/phonbook.deps.json
+/home/picsartacademy/C#_code/task3/phonbook/bin/Debug/net9.0/phonbook.runtimeconfig.json
+/home/picsartacademy/C#_code/task3/phonbook/bin/Debug/net9.0/phonbook.dll
+/home/picsartacademy/C#_code/task3/phonbook/bin/Debug/net9.0/phonbook.pdb
+/home/picsartacademy/C#_code/task3/phonbook/obj/Debug/net9.0/phonbook.dll
+/home/picsartacademy/C#_code/task3/phonbook/obj/Debug/net9.0/refint/phonbook.dll
+/home/picsartacademy/C#_code/task3/phonbook/obj/Debug/net9.0/phonbook.pdb
+/home/picsartacademy/C#_code/task3/phonbook/obj/Debug/net9.0/phonbook.genruntimeconfig.cache
+/home/picsartacademy/C#_code/task3/phonbook/obj/Debug/net9.0/ref/phonbook.dll

@@ -1,0 +1,15 @@
+/home/picsartacademy/C#_code/task4/Enrollment/obj/Debug/net9.0/Enrollment.GeneratedMSBuildEditorConfig.editorconfig
+/home/picsartacademy/C#_code/task4/Enrollment/obj/Debug/net9.0/Enrollment.AssemblyInfoInputs.cache
+/home/picsartacademy/C#_code/task4/Enrollment/obj/Debug/net9.0/Enrollment.AssemblyInfo.cs
+/home/picsartacademy/C#_code/task4/Enrollment/obj/Debug/net9.0/Enrollment.csproj.CoreCompileInputs.cache
+/home/picsartacademy/C#_code/task4/Enrollment/obj/Debug/net9.0/Enrollment.sourcelink.json
+/home/picsartacademy/C#_code/task4/Enrollment/bin/Debug/net9.0/Enrollment
+/home/picsartacademy/C#_code/task4/Enrollment/bin/Debug/net9.0/Enrollment.deps.json
+/home/picsartacademy/C#_code/task4/Enrollment/bin/Debug/net9.0/Enrollment.runtimeconfig.json
+/home/picsartacademy/C#_code/task4/Enrollment/bin/Debug/net9.0/Enrollment.dll
+/home/picsartacademy/C#_code/task4/Enrollment/bin/Debug/net9.0/Enrollment.pdb
+/home/picsartacademy/C#_code/task4/Enrollment/obj/Debug/net9.0/Enrollment.dll
+/home/picsartacademy/C#_code/task4/Enrollment/obj/Debug/net9.0/refint/Enrollment.dll
+/home/picsartacademy/C#_code/task4/Enrollment/obj/Debug/net9.0/Enrollment.pdb
+/home/picsartacademy/C#_code/task4/Enrollment/obj/Debug/net9.0/Enrollment.genruntimeconfig.cache
+/home/picsartacademy/C#_code/task4/Enrollment/obj/Debug/net9.0/ref/Enrollment.dll

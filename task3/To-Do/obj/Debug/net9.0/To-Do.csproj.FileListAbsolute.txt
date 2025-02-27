@@ -1,0 +1,15 @@
+/home/picsartacademy/C#_code/task3/To-Do/obj/Debug/net9.0/To-Do.GeneratedMSBuildEditorConfig.editorconfig
+/home/picsartacademy/C#_code/task3/To-Do/obj/Debug/net9.0/To-Do.AssemblyInfoInputs.cache
+/home/picsartacademy/C#_code/task3/To-Do/obj/Debug/net9.0/To-Do.AssemblyInfo.cs
+/home/picsartacademy/C#_code/task3/To-Do/obj/Debug/net9.0/To-Do.csproj.CoreCompileInputs.cache
+/home/picsartacademy/C#_code/task3/To-Do/obj/Debug/net9.0/To-Do.sourcelink.json
+/home/picsartacademy/C#_code/task3/To-Do/bin/Debug/net9.0/To-Do
+/home/picsartacademy/C#_code/task3/To-Do/bin/Debug/net9.0/To-Do.deps.json
+/home/picsartacademy/C#_code/task3/To-Do/bin/Debug/net9.0/To-Do.runtimeconfig.json
+/home/picsartacademy/C#_code/task3/To-Do/bin/Debug/net9.0/To-Do.dll
+/home/picsartacademy/C#_code/task3/To-Do/bin/Debug/net9.0/To-Do.pdb
+/home/picsartacademy/C#_code/task3/To-Do/obj/Debug/net9.0/To-Do.dll
+/home/picsartacademy/C#_code/task3/To-Do/obj/Debug/net9.0/refint/To-Do.dll
+/home/picsartacademy/C#_code/task3/To-Do/obj/Debug/net9.0/To-Do.pdb
+/home/picsartacademy/C#_code/task3/To-Do/obj/Debug/net9.0/To-Do.genruntimeconfig.cache
+/home/picsartacademy/C#_code/task3/To-Do/obj/Debug/net9.0/ref/To-Do.dll

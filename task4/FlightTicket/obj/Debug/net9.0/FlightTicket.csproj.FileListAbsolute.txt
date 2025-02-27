@@ -1,0 +1,15 @@
+/home/picsartacademy/C#_code/task4/FlightTicket/obj/Debug/net9.0/FlightTicket.GeneratedMSBuildEditorConfig.editorconfig
+/home/picsartacademy/C#_code/task4/FlightTicket/obj/Debug/net9.0/FlightTicket.AssemblyInfoInputs.cache
+/home/picsartacademy/C#_code/task4/FlightTicket/obj/Debug/net9.0/FlightTicket.AssemblyInfo.cs
+/home/picsartacademy/C#_code/task4/FlightTicket/obj/Debug/net9.0/FlightTicket.csproj.CoreCompileInputs.cache
+/home/picsartacademy/C#_code/task4/FlightTicket/obj/Debug/net9.0/FlightTicket.sourcelink.json
+/home/picsartacademy/C#_code/task4/FlightTicket/bin/Debug/net9.0/FlightTicket
+/home/picsartacademy/C#_code/task4/FlightTicket/bin/Debug/net9.0/FlightTicket.deps.json
+/home/picsartacademy/C#_code/task4/FlightTicket/bin/Debug/net9.0/FlightTicket.runtimeconfig.json
+/home/picsartacademy/C#_code/task4/FlightTicket/bin/Debug/net9.0/FlightTicket.dll
+/home/picsartacademy/C#_code/task4/FlightTicket/bin/Debug/net9.0/FlightTicket.pdb
+/home/picsartacademy/C#_code/task4/FlightTicket/obj/Debug/net9.0/FlightTicket.dll
+/home/picsartacademy/C#_code/task4/FlightTicket/obj/Debug/net9.0/refint/FlightTicket.dll
+/home/picsartacademy/C#_code/task4/FlightTicket/obj/Debug/net9.0/FlightTicket.pdb
+/home/picsartacademy/C#_code/task4/FlightTicket/obj/Debug/net9.0/FlightTicket.genruntimeconfig.cache
+/home/picsartacademy/C#_code/task4/FlightTicket/obj/Debug/net9.0/ref/FlightTicket.dll

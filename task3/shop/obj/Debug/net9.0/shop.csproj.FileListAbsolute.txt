@@ -1,0 +1,15 @@
+/home/picsartacademy/C#_code/task3/shop/obj/Debug/net9.0/shop.GeneratedMSBuildEditorConfig.editorconfig
+/home/picsartacademy/C#_code/task3/shop/obj/Debug/net9.0/shop.AssemblyInfoInputs.cache
+/home/picsartacademy/C#_code/task3/shop/obj/Debug/net9.0/shop.AssemblyInfo.cs
+/home/picsartacademy/C#_code/task3/shop/obj/Debug/net9.0/shop.csproj.CoreCompileInputs.cache
+/home/picsartacademy/C#_code/task3/shop/obj/Debug/net9.0/shop.sourcelink.json
+/home/picsartacademy/C#_code/task3/shop/bin/Debug/net9.0/shop
+/home/picsartacademy/C#_code/task3/shop/bin/Debug/net9.0/shop.deps.json
+/home/picsartacademy/C#_code/task3/shop/bin/Debug/net9.0/shop.runtimeconfig.json
+/home/picsartacademy/C#_code/task3/shop/bin/Debug/net9.0/shop.dll
+/home/picsartacademy/C#_code/task3/shop/bin/Debug/net9.0/shop.pdb
+/home/picsartacademy/C#_code/task3/shop/obj/Debug/net9.0/shop.dll
+/home/picsartacademy/C#_code/task3/shop/obj/Debug/net9.0/refint/shop.dll
+/home/picsartacademy/C#_code/task3/shop/obj/Debug/net9.0/shop.pdb
+/home/picsartacademy/C#_code/task3/shop/obj/Debug/net9.0/shop.genruntimeconfig.cache
+/home/picsartacademy/C#_code/task3/shop/obj/Debug/net9.0/ref/shop.dll

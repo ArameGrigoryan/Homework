@@ -1,0 +1,38 @@
+﻿using System;
+
+public class Student {
+	string? name = null;
+	int age = 0;
+	int grade = 0;
+	private Student(string mname, int mage, int mgrade) {
+		name = mname;
+		age = mage;
+		grade = mgrade;
+	}
+	public void DicplayDetails() {
+		Console.WriteLine($"\nname: {name}\nage: {age}\nGrad: {grad}");
+	}
+	static Student foo() {
+			Console.WriteLine($"Contact for student{i}");
+			Console.Write("\tEnter name: ");
+			name = Console.ReadLine();
+			Console.Write("\tEnter age: ");
+			age = Convert.ToInt32(Console.ReadLine());
+			Console.Write("\tEnter grad: ");
+			grad = Convert.ToInt32(Console.ReadLine());
+			Student stud = new Student(name, age, grad);
+			return stud;
+	}
+
+}
+class Program {
+	static void Main() {
+		Student[] stud = new Student[5];
+		for (int i = 0; i < 5; ++i) {
+			stud[i] = Student.foo();
+		}
+		for (int i = 0; i < 5; ++i) {
+			stud[i].DicplayDetails();
+		}
+	}
+}

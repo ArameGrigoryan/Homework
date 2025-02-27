@@ -1,0 +1,15 @@
+/home/picsartacademy/C#_code/task4/Partial/bin/Debug/net9.0/Partial
+/home/picsartacademy/C#_code/task4/Partial/bin/Debug/net9.0/Partial.deps.json
+/home/picsartacademy/C#_code/task4/Partial/bin/Debug/net9.0/Partial.runtimeconfig.json
+/home/picsartacademy/C#_code/task4/Partial/bin/Debug/net9.0/Partial.dll
+/home/picsartacademy/C#_code/task4/Partial/bin/Debug/net9.0/Partial.pdb
+/home/picsartacademy/C#_code/task4/Partial/obj/Debug/net9.0/Partial.GeneratedMSBuildEditorConfig.editorconfig
+/home/picsartacademy/C#_code/task4/Partial/obj/Debug/net9.0/Partial.AssemblyInfoInputs.cache
+/home/picsartacademy/C#_code/task4/Partial/obj/Debug/net9.0/Partial.AssemblyInfo.cs
+/home/picsartacademy/C#_code/task4/Partial/obj/Debug/net9.0/Partial.csproj.CoreCompileInputs.cache
+/home/picsartacademy/C#_code/task4/Partial/obj/Debug/net9.0/Partial.sourcelink.json
+/home/picsartacademy/C#_code/task4/Partial/obj/Debug/net9.0/Partial.dll
+/home/picsartacademy/C#_code/task4/Partial/obj/Debug/net9.0/refint/Partial.dll
+/home/picsartacademy/C#_code/task4/Partial/obj/Debug/net9.0/Partial.pdb
+/home/picsartacademy/C#_code/task4/Partial/obj/Debug/net9.0/Partial.genruntimeconfig.cache
+/home/picsartacademy/C#_code/task4/Partial/obj/Debug/net9.0/ref/Partial.dll

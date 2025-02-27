@@ -1,0 +1,15 @@
+/home/picsartacademy/C#_code/task4/Weather/obj/Debug/net9.0/Weather.GeneratedMSBuildEditorConfig.editorconfig
+/home/picsartacademy/C#_code/task4/Weather/obj/Debug/net9.0/Weather.AssemblyInfoInputs.cache
+/home/picsartacademy/C#_code/task4/Weather/obj/Debug/net9.0/Weather.AssemblyInfo.cs
+/home/picsartacademy/C#_code/task4/Weather/obj/Debug/net9.0/Weather.csproj.CoreCompileInputs.cache
+/home/picsartacademy/C#_code/task4/Weather/obj/Debug/net9.0/Weather.sourcelink.json
+/home/picsartacademy/C#_code/task4/Weather/bin/Debug/net9.0/Weather
+/home/picsartacademy/C#_code/task4/Weather/bin/Debug/net9.0/Weather.deps.json
+/home/picsartacademy/C#_code/task4/Weather/bin/Debug/net9.0/Weather.runtimeconfig.json
+/home/picsartacademy/C#_code/task4/Weather/bin/Debug/net9.0/Weather.dll
+/home/picsartacademy/C#_code/task4/Weather/bin/Debug/net9.0/Weather.pdb
+/home/picsartacademy/C#_code/task4/Weather/obj/Debug/net9.0/Weather.dll
+/home/picsartacademy/C#_code/task4/Weather/obj/Debug/net9.0/refint/Weather.dll
+/home/picsartacademy/C#_code/task4/Weather/obj/Debug/net9.0/Weather.pdb
+/home/picsartacademy/C#_code/task4/Weather/obj/Debug/net9.0/Weather.genruntimeconfig.cache
+/home/picsartacademy/C#_code/task4/Weather/obj/Debug/net9.0/ref/Weather.dll

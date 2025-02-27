@@ -1,0 +1,15 @@
+/home/picsartacademy/C#_code/task4/Smartwatch/obj/Debug/net9.0/Smartwatch.GeneratedMSBuildEditorConfig.editorconfig
+/home/picsartacademy/C#_code/task4/Smartwatch/obj/Debug/net9.0/Smartwatch.AssemblyInfoInputs.cache
+/home/picsartacademy/C#_code/task4/Smartwatch/obj/Debug/net9.0/Smartwatch.AssemblyInfo.cs
+/home/picsartacademy/C#_code/task4/Smartwatch/obj/Debug/net9.0/Smartwatch.csproj.CoreCompileInputs.cache
+/home/picsartacademy/C#_code/task4/Smartwatch/obj/Debug/net9.0/Smartwatch.sourcelink.json
+/home/picsartacademy/C#_code/task4/Smartwatch/bin/Debug/net9.0/Smartwatch
+/home/picsartacademy/C#_code/task4/Smartwatch/bin/Debug/net9.0/Smartwatch.deps.json
+/home/picsartacademy/C#_code/task4/Smartwatch/bin/Debug/net9.0/Smartwatch.runtimeconfig.json
+/home/picsartacademy/C#_code/task4/Smartwatch/bin/Debug/net9.0/Smartwatch.dll
+/home/picsartacademy/C#_code/task4/Smartwatch/bin/Debug/net9.0/Smartwatch.pdb
+/home/picsartacademy/C#_code/task4/Smartwatch/obj/Debug/net9.0/Smartwatch.dll
+/home/picsartacademy/C#_code/task4/Smartwatch/obj/Debug/net9.0/refint/Smartwatch.dll
+/home/picsartacademy/C#_code/task4/Smartwatch/obj/Debug/net9.0/Smartwatch.pdb
+/home/picsartacademy/C#_code/task4/Smartwatch/obj/Debug/net9.0/Smartwatch.genruntimeconfig.cache
+/home/picsartacademy/C#_code/task4/Smartwatch/obj/Debug/net9.0/ref/Smartwatch.dll

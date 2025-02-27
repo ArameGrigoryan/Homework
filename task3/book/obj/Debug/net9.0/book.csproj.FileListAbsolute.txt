@@ -1,0 +1,15 @@
+/home/picsartacademy/C#_code/task3/book/obj/Debug/net9.0/book.GeneratedMSBuildEditorConfig.editorconfig
+/home/picsartacademy/C#_code/task3/book/obj/Debug/net9.0/book.AssemblyInfoInputs.cache
+/home/picsartacademy/C#_code/task3/book/obj/Debug/net9.0/book.AssemblyInfo.cs
+/home/picsartacademy/C#_code/task3/book/obj/Debug/net9.0/book.csproj.CoreCompileInputs.cache
+/home/picsartacademy/C#_code/task3/book/obj/Debug/net9.0/book.sourcelink.json
+/home/picsartacademy/C#_code/task3/book/bin/Debug/net9.0/book
+/home/picsartacademy/C#_code/task3/book/bin/Debug/net9.0/book.deps.json
+/home/picsartacademy/C#_code/task3/book/bin/Debug/net9.0/book.runtimeconfig.json
+/home/picsartacademy/C#_code/task3/book/bin/Debug/net9.0/book.dll
+/home/picsartacademy/C#_code/task3/book/bin/Debug/net9.0/book.pdb
+/home/picsartacademy/C#_code/task3/book/obj/Debug/net9.0/book.dll
+/home/picsartacademy/C#_code/task3/book/obj/Debug/net9.0/refint/book.dll
+/home/picsartacademy/C#_code/task3/book/obj/Debug/net9.0/book.pdb
+/home/picsartacademy/C#_code/task3/book/obj/Debug/net9.0/book.genruntimeconfig.cache
+/home/picsartacademy/C#_code/task3/book/obj/Debug/net9.0/ref/book.dll

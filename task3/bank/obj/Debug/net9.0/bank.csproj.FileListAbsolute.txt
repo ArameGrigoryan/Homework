@@ -1,0 +1,15 @@
+/home/picsartacademy/C#_code/task3/bank/bin/Debug/net9.0/bank
+/home/picsartacademy/C#_code/task3/bank/bin/Debug/net9.0/bank.deps.json
+/home/picsartacademy/C#_code/task3/bank/bin/Debug/net9.0/bank.runtimeconfig.json
+/home/picsartacademy/C#_code/task3/bank/bin/Debug/net9.0/bank.dll
+/home/picsartacademy/C#_code/task3/bank/bin/Debug/net9.0/bank.pdb
+/home/picsartacademy/C#_code/task3/bank/obj/Debug/net9.0/bank.GeneratedMSBuildEditorConfig.editorconfig
+/home/picsartacademy/C#_code/task3/bank/obj/Debug/net9.0/bank.AssemblyInfoInputs.cache
+/home/picsartacademy/C#_code/task3/bank/obj/Debug/net9.0/bank.AssemblyInfo.cs
+/home/picsartacademy/C#_code/task3/bank/obj/Debug/net9.0/bank.csproj.CoreCompileInputs.cache
+/home/picsartacademy/C#_code/task3/bank/obj/Debug/net9.0/bank.sourcelink.json
+/home/picsartacademy/C#_code/task3/bank/obj/Debug/net9.0/bank.dll
+/home/picsartacademy/C#_code/task3/bank/obj/Debug/net9.0/refint/bank.dll
+/home/picsartacademy/C#_code/task3/bank/obj/Debug/net9.0/bank.pdb
+/home/picsartacademy/C#_code/task3/bank/obj/Debug/net9.0/bank.genruntimeconfig.cache
+/home/picsartacademy/C#_code/task3/bank/obj/Debug/net9.0/ref/bank.dll

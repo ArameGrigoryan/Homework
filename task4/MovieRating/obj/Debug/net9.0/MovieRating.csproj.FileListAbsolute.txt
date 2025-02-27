@@ -1,0 +1,15 @@
+/home/picsartacademy/C#_code/task4/MovieRating/bin/Debug/net9.0/MovieRating
+/home/picsartacademy/C#_code/task4/MovieRating/bin/Debug/net9.0/MovieRating.deps.json
+/home/picsartacademy/C#_code/task4/MovieRating/bin/Debug/net9.0/MovieRating.runtimeconfig.json
+/home/picsartacademy/C#_code/task4/MovieRating/bin/Debug/net9.0/MovieRating.dll
+/home/picsartacademy/C#_code/task4/MovieRating/bin/Debug/net9.0/MovieRating.pdb
+/home/picsartacademy/C#_code/task4/MovieRating/obj/Debug/net9.0/MovieRating.GeneratedMSBuildEditorConfig.editorconfig
+/home/picsartacademy/C#_code/task4/MovieRating/obj/Debug/net9.0/MovieRating.AssemblyInfoInputs.cache
+/home/picsartacademy/C#_code/task4/MovieRating/obj/Debug/net9.0/MovieRating.AssemblyInfo.cs
+/home/picsartacademy/C#_code/task4/MovieRating/obj/Debug/net9.0/MovieRating.csproj.CoreCompileInputs.cache
+/home/picsartacademy/C#_code/task4/MovieRating/obj/Debug/net9.0/MovieRating.sourcelink.json
+/home/picsartacademy/C#_code/task4/MovieRating/obj/Debug/net9.0/MovieRating.dll
+/home/picsartacademy/C#_code/task4/MovieRating/obj/Debug/net9.0/refint/MovieRating.dll
+/home/picsartacademy/C#_code/task4/MovieRating/obj/Debug/net9.0/MovieRating.pdb
+/home/picsartacademy/C#_code/task4/MovieRating/obj/Debug/net9.0/MovieRating.genruntimeconfig.cache
+/home/picsartacademy/C#_code/task4/MovieRating/obj/Debug/net9.0/ref/MovieRating.dll

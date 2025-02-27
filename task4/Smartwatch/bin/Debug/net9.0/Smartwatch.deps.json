@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Smartwatch/1.0.0": {
+        "runtime": {
+          "Smartwatch.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Smartwatch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

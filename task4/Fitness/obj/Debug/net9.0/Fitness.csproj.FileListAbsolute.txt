@@ -1,0 +1,15 @@
+/home/picsartacademy/C#_code/task4/Fitness/obj/Debug/net9.0/Fitness.GeneratedMSBuildEditorConfig.editorconfig
+/home/picsartacademy/C#_code/task4/Fitness/obj/Debug/net9.0/Fitness.AssemblyInfoInputs.cache
+/home/picsartacademy/C#_code/task4/Fitness/obj/Debug/net9.0/Fitness.AssemblyInfo.cs
+/home/picsartacademy/C#_code/task4/Fitness/obj/Debug/net9.0/Fitness.csproj.CoreCompileInputs.cache
+/home/picsartacademy/C#_code/task4/Fitness/obj/Debug/net9.0/Fitness.sourcelink.json
+/home/picsartacademy/C#_code/task4/Fitness/bin/Debug/net9.0/Fitness
+/home/picsartacademy/C#_code/task4/Fitness/bin/Debug/net9.0/Fitness.deps.json
+/home/picsartacademy/C#_code/task4/Fitness/bin/Debug/net9.0/Fitness.runtimeconfig.json
+/home/picsartacademy/C#_code/task4/Fitness/bin/Debug/net9.0/Fitness.dll
+/home/picsartacademy/C#_code/task4/Fitness/bin/Debug/net9.0/Fitness.pdb
+/home/picsartacademy/C#_code/task4/Fitness/obj/Debug/net9.0/Fitness.dll
+/home/picsartacademy/C#_code/task4/Fitness/obj/Debug/net9.0/refint/Fitness.dll
+/home/picsartacademy/C#_code/task4/Fitness/obj/Debug/net9.0/Fitness.pdb
+/home/picsartacademy/C#_code/task4/Fitness/obj/Debug/net9.0/Fitness.genruntimeconfig.cache
+/home/picsartacademy/C#_code/task4/Fitness/obj/Debug/net9.0/ref/Fitness.dll

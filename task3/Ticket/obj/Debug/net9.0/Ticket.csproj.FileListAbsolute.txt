@@ -1,0 +1,15 @@
+/home/picsartacademy/C#_code/task3/Ticket/obj/Debug/net9.0/Ticket.GeneratedMSBuildEditorConfig.editorconfig
+/home/picsartacademy/C#_code/task3/Ticket/obj/Debug/net9.0/Ticket.AssemblyInfoInputs.cache
+/home/picsartacademy/C#_code/task3/Ticket/obj/Debug/net9.0/Ticket.AssemblyInfo.cs
+/home/picsartacademy/C#_code/task3/Ticket/obj/Debug/net9.0/Ticket.csproj.CoreCompileInputs.cache
+/home/picsartacademy/C#_code/task3/Ticket/obj/Debug/net9.0/Ticket.sourcelink.json
+/home/picsartacademy/C#_code/task3/Ticket/bin/Debug/net9.0/Ticket
+/home/picsartacademy/C#_code/task3/Ticket/bin/Debug/net9.0/Ticket.deps.json
+/home/picsartacademy/C#_code/task3/Ticket/bin/Debug/net9.0/Ticket.runtimeconfig.json
+/home/picsartacademy/C#_code/task3/Ticket/bin/Debug/net9.0/Ticket.dll
+/home/picsartacademy/C#_code/task3/Ticket/bin/Debug/net9.0/Ticket.pdb
+/home/picsartacademy/C#_code/task3/Ticket/obj/Debug/net9.0/Ticket.dll
+/home/picsartacademy/C#_code/task3/Ticket/obj/Debug/net9.0/refint/Ticket.dll
+/home/picsartacademy/C#_code/task3/Ticket/obj/Debug/net9.0/Ticket.pdb
+/home/picsartacademy/C#_code/task3/Ticket/obj/Debug/net9.0/Ticket.genruntimeconfig.cache
+/home/picsartacademy/C#_code/task3/Ticket/obj/Debug/net9.0/ref/Ticket.dll
