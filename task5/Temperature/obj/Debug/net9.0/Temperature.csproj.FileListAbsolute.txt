@@ -1,0 +1,15 @@
+/home/picsartacademy/C#_code/task5/Temperature/obj/Debug/net9.0/Temperature.GeneratedMSBuildEditorConfig.editorconfig
+/home/picsartacademy/C#_code/task5/Temperature/obj/Debug/net9.0/Temperature.AssemblyInfoInputs.cache
+/home/picsartacademy/C#_code/task5/Temperature/obj/Debug/net9.0/Temperature.AssemblyInfo.cs
+/home/picsartacademy/C#_code/task5/Temperature/obj/Debug/net9.0/Temperature.csproj.CoreCompileInputs.cache
+/home/picsartacademy/C#_code/task5/Temperature/obj/Debug/net9.0/Temperature.sourcelink.json
+/home/picsartacademy/C#_code/task5/Temperature/bin/Debug/net9.0/Temperature
+/home/picsartacademy/C#_code/task5/Temperature/bin/Debug/net9.0/Temperature.deps.json
+/home/picsartacademy/C#_code/task5/Temperature/bin/Debug/net9.0/Temperature.runtimeconfig.json
+/home/picsartacademy/C#_code/task5/Temperature/bin/Debug/net9.0/Temperature.dll
+/home/picsartacademy/C#_code/task5/Temperature/bin/Debug/net9.0/Temperature.pdb
+/home/picsartacademy/C#_code/task5/Temperature/obj/Debug/net9.0/Temperature.dll
+/home/picsartacademy/C#_code/task5/Temperature/obj/Debug/net9.0/refint/Temperature.dll
+/home/picsartacademy/C#_code/task5/Temperature/obj/Debug/net9.0/Temperature.pdb
+/home/picsartacademy/C#_code/task5/Temperature/obj/Debug/net9.0/Temperature.genruntimeconfig.cache
+/home/picsartacademy/C#_code/task5/Temperature/obj/Debug/net9.0/ref/Temperature.dll

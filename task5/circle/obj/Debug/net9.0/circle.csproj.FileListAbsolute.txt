@@ -1,0 +1,15 @@
+/home/picsartacademy/C#_code/task5/circle/obj/Debug/net9.0/circle.GeneratedMSBuildEditorConfig.editorconfig
+/home/picsartacademy/C#_code/task5/circle/obj/Debug/net9.0/circle.AssemblyInfoInputs.cache
+/home/picsartacademy/C#_code/task5/circle/obj/Debug/net9.0/circle.AssemblyInfo.cs
+/home/picsartacademy/C#_code/task5/circle/obj/Debug/net9.0/circle.csproj.CoreCompileInputs.cache
+/home/picsartacademy/C#_code/task5/circle/obj/Debug/net9.0/circle.sourcelink.json
+/home/picsartacademy/C#_code/task5/circle/bin/Debug/net9.0/circle
+/home/picsartacademy/C#_code/task5/circle/bin/Debug/net9.0/circle.deps.json
+/home/picsartacademy/C#_code/task5/circle/bin/Debug/net9.0/circle.runtimeconfig.json
+/home/picsartacademy/C#_code/task5/circle/bin/Debug/net9.0/circle.dll
+/home/picsartacademy/C#_code/task5/circle/bin/Debug/net9.0/circle.pdb
+/home/picsartacademy/C#_code/task5/circle/obj/Debug/net9.0/circle.dll
+/home/picsartacademy/C#_code/task5/circle/obj/Debug/net9.0/refint/circle.dll
+/home/picsartacademy/C#_code/task5/circle/obj/Debug/net9.0/circle.pdb
+/home/picsartacademy/C#_code/task5/circle/obj/Debug/net9.0/circle.genruntimeconfig.cache
+/home/picsartacademy/C#_code/task5/circle/obj/Debug/net9.0/ref/circle.dll

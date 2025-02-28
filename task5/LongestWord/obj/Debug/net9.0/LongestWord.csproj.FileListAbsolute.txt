@@ -1,0 +1,15 @@
+/home/picsartacademy/C#_code/task5/LongestWord/obj/Debug/net9.0/LongestWord.GeneratedMSBuildEditorConfig.editorconfig
+/home/picsartacademy/C#_code/task5/LongestWord/obj/Debug/net9.0/LongestWord.AssemblyInfoInputs.cache
+/home/picsartacademy/C#_code/task5/LongestWord/obj/Debug/net9.0/LongestWord.AssemblyInfo.cs
+/home/picsartacademy/C#_code/task5/LongestWord/obj/Debug/net9.0/LongestWord.csproj.CoreCompileInputs.cache
+/home/picsartacademy/C#_code/task5/LongestWord/obj/Debug/net9.0/LongestWord.sourcelink.json
+/home/picsartacademy/C#_code/task5/LongestWord/bin/Debug/net9.0/LongestWord
+/home/picsartacademy/C#_code/task5/LongestWord/bin/Debug/net9.0/LongestWord.deps.json
+/home/picsartacademy/C#_code/task5/LongestWord/bin/Debug/net9.0/LongestWord.runtimeconfig.json
+/home/picsartacademy/C#_code/task5/LongestWord/bin/Debug/net9.0/LongestWord.dll
+/home/picsartacademy/C#_code/task5/LongestWord/bin/Debug/net9.0/LongestWord.pdb
+/home/picsartacademy/C#_code/task5/LongestWord/obj/Debug/net9.0/LongestWord.dll
+/home/picsartacademy/C#_code/task5/LongestWord/obj/Debug/net9.0/refint/LongestWord.dll
+/home/picsartacademy/C#_code/task5/LongestWord/obj/Debug/net9.0/LongestWord.pdb
+/home/picsartacademy/C#_code/task5/LongestWord/obj/Debug/net9.0/LongestWord.genruntimeconfig.cache
+/home/picsartacademy/C#_code/task5/LongestWord/obj/Debug/net9.0/ref/LongestWord.dll

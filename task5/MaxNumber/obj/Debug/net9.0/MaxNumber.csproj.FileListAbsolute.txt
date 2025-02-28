@@ -1,0 +1,15 @@
+/home/picsartacademy/C#_code/task5/MaxNumber/obj/Debug/net9.0/MaxNumber.GeneratedMSBuildEditorConfig.editorconfig
+/home/picsartacademy/C#_code/task5/MaxNumber/obj/Debug/net9.0/MaxNumber.AssemblyInfoInputs.cache
+/home/picsartacademy/C#_code/task5/MaxNumber/obj/Debug/net9.0/MaxNumber.AssemblyInfo.cs
+/home/picsartacademy/C#_code/task5/MaxNumber/obj/Debug/net9.0/MaxNumber.csproj.CoreCompileInputs.cache
+/home/picsartacademy/C#_code/task5/MaxNumber/obj/Debug/net9.0/MaxNumber.sourcelink.json
+/home/picsartacademy/C#_code/task5/MaxNumber/bin/Debug/net9.0/MaxNumber
+/home/picsartacademy/C#_code/task5/MaxNumber/bin/Debug/net9.0/MaxNumber.deps.json
+/home/picsartacademy/C#_code/task5/MaxNumber/bin/Debug/net9.0/MaxNumber.runtimeconfig.json
+/home/picsartacademy/C#_code/task5/MaxNumber/bin/Debug/net9.0/MaxNumber.dll
+/home/picsartacademy/C#_code/task5/MaxNumber/bin/Debug/net9.0/MaxNumber.pdb
+/home/picsartacademy/C#_code/task5/MaxNumber/obj/Debug/net9.0/MaxNumber.dll
+/home/picsartacademy/C#_code/task5/MaxNumber/obj/Debug/net9.0/refint/MaxNumber.dll
+/home/picsartacademy/C#_code/task5/MaxNumber/obj/Debug/net9.0/MaxNumber.pdb
+/home/picsartacademy/C#_code/task5/MaxNumber/obj/Debug/net9.0/MaxNumber.genruntimeconfig.cache
+/home/picsartacademy/C#_code/task5/MaxNumber/obj/Debug/net9.0/ref/MaxNumber.dll

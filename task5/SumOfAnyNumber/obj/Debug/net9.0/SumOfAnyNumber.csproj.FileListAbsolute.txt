@@ -1,0 +1,15 @@
+/home/picsartacademy/C#_code/task5/SumOfAnyNumber/obj/Debug/net9.0/SumOfAnyNumber.GeneratedMSBuildEditorConfig.editorconfig
+/home/picsartacademy/C#_code/task5/SumOfAnyNumber/obj/Debug/net9.0/SumOfAnyNumber.AssemblyInfoInputs.cache
+/home/picsartacademy/C#_code/task5/SumOfAnyNumber/obj/Debug/net9.0/SumOfAnyNumber.AssemblyInfo.cs
+/home/picsartacademy/C#_code/task5/SumOfAnyNumber/obj/Debug/net9.0/SumOfAnyNumber.csproj.CoreCompileInputs.cache
+/home/picsartacademy/C#_code/task5/SumOfAnyNumber/obj/Debug/net9.0/SumOfAnyNumber.sourcelink.json
+/home/picsartacademy/C#_code/task5/SumOfAnyNumber/bin/Debug/net9.0/SumOfAnyNumber
+/home/picsartacademy/C#_code/task5/SumOfAnyNumber/bin/Debug/net9.0/SumOfAnyNumber.deps.json
+/home/picsartacademy/C#_code/task5/SumOfAnyNumber/bin/Debug/net9.0/SumOfAnyNumber.runtimeconfig.json
+/home/picsartacademy/C#_code/task5/SumOfAnyNumber/bin/Debug/net9.0/SumOfAnyNumber.dll
+/home/picsartacademy/C#_code/task5/SumOfAnyNumber/bin/Debug/net9.0/SumOfAnyNumber.pdb
+/home/picsartacademy/C#_code/task5/SumOfAnyNumber/obj/Debug/net9.0/SumOfAnyNumber.dll
+/home/picsartacademy/C#_code/task5/SumOfAnyNumber/obj/Debug/net9.0/refint/SumOfAnyNumber.dll
+/home/picsartacademy/C#_code/task5/SumOfAnyNumber/obj/Debug/net9.0/SumOfAnyNumber.pdb
+/home/picsartacademy/C#_code/task5/SumOfAnyNumber/obj/Debug/net9.0/SumOfAnyNumber.genruntimeconfig.cache
+/home/picsartacademy/C#_code/task5/SumOfAnyNumber/obj/Debug/net9.0/ref/SumOfAnyNumber.dll

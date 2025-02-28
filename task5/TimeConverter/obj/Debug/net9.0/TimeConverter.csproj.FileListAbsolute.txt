@@ -1,0 +1,15 @@
+/home/picsartacademy/C#_code/task5/TimeConverter/obj/Debug/net9.0/TimeConverter.GeneratedMSBuildEditorConfig.editorconfig
+/home/picsartacademy/C#_code/task5/TimeConverter/obj/Debug/net9.0/TimeConverter.AssemblyInfoInputs.cache
+/home/picsartacademy/C#_code/task5/TimeConverter/obj/Debug/net9.0/TimeConverter.AssemblyInfo.cs
+/home/picsartacademy/C#_code/task5/TimeConverter/obj/Debug/net9.0/TimeConverter.csproj.CoreCompileInputs.cache
+/home/picsartacademy/C#_code/task5/TimeConverter/obj/Debug/net9.0/TimeConverter.sourcelink.json
+/home/picsartacademy/C#_code/task5/TimeConverter/bin/Debug/net9.0/TimeConverter
+/home/picsartacademy/C#_code/task5/TimeConverter/bin/Debug/net9.0/TimeConverter.deps.json
+/home/picsartacademy/C#_code/task5/TimeConverter/bin/Debug/net9.0/TimeConverter.runtimeconfig.json
+/home/picsartacademy/C#_code/task5/TimeConverter/bin/Debug/net9.0/TimeConverter.dll
+/home/picsartacademy/C#_code/task5/TimeConverter/bin/Debug/net9.0/TimeConverter.pdb
+/home/picsartacademy/C#_code/task5/TimeConverter/obj/Debug/net9.0/TimeConverter.dll
+/home/picsartacademy/C#_code/task5/TimeConverter/obj/Debug/net9.0/refint/TimeConverter.dll
+/home/picsartacademy/C#_code/task5/TimeConverter/obj/Debug/net9.0/TimeConverter.pdb
+/home/picsartacademy/C#_code/task5/TimeConverter/obj/Debug/net9.0/TimeConverter.genruntimeconfig.cache
+/home/picsartacademy/C#_code/task5/TimeConverter/obj/Debug/net9.0/ref/TimeConverter.dll

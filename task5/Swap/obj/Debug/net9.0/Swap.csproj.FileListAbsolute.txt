@@ -1,0 +1,15 @@
+/home/picsartacademy/C#_code/task5/Swap/bin/Debug/net9.0/Swap
+/home/picsartacademy/C#_code/task5/Swap/bin/Debug/net9.0/Swap.deps.json
+/home/picsartacademy/C#_code/task5/Swap/bin/Debug/net9.0/Swap.runtimeconfig.json
+/home/picsartacademy/C#_code/task5/Swap/bin/Debug/net9.0/Swap.dll
+/home/picsartacademy/C#_code/task5/Swap/bin/Debug/net9.0/Swap.pdb
+/home/picsartacademy/C#_code/task5/Swap/obj/Debug/net9.0/Swap.GeneratedMSBuildEditorConfig.editorconfig
+/home/picsartacademy/C#_code/task5/Swap/obj/Debug/net9.0/Swap.AssemblyInfoInputs.cache
+/home/picsartacademy/C#_code/task5/Swap/obj/Debug/net9.0/Swap.AssemblyInfo.cs
+/home/picsartacademy/C#_code/task5/Swap/obj/Debug/net9.0/Swap.csproj.CoreCompileInputs.cache
+/home/picsartacademy/C#_code/task5/Swap/obj/Debug/net9.0/Swap.sourcelink.json
+/home/picsartacademy/C#_code/task5/Swap/obj/Debug/net9.0/Swap.dll
+/home/picsartacademy/C#_code/task5/Swap/obj/Debug/net9.0/refint/Swap.dll
+/home/picsartacademy/C#_code/task5/Swap/obj/Debug/net9.0/Swap.pdb
+/home/picsartacademy/C#_code/task5/Swap/obj/Debug/net9.0/Swap.genruntimeconfig.cache
+/home/picsartacademy/C#_code/task5/Swap/obj/Debug/net9.0/ref/Swap.dll

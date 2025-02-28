@@ -1,0 +1,15 @@
+/home/picsartacademy/C#_code/task5/Discriminant/bin/Debug/net9.0/Discriminant
+/home/picsartacademy/C#_code/task5/Discriminant/bin/Debug/net9.0/Discriminant.deps.json
+/home/picsartacademy/C#_code/task5/Discriminant/bin/Debug/net9.0/Discriminant.runtimeconfig.json
+/home/picsartacademy/C#_code/task5/Discriminant/bin/Debug/net9.0/Discriminant.dll
+/home/picsartacademy/C#_code/task5/Discriminant/bin/Debug/net9.0/Discriminant.pdb
+/home/picsartacademy/C#_code/task5/Discriminant/obj/Debug/net9.0/Discriminant.GeneratedMSBuildEditorConfig.editorconfig
+/home/picsartacademy/C#_code/task5/Discriminant/obj/Debug/net9.0/Discriminant.AssemblyInfoInputs.cache
+/home/picsartacademy/C#_code/task5/Discriminant/obj/Debug/net9.0/Discriminant.AssemblyInfo.cs
+/home/picsartacademy/C#_code/task5/Discriminant/obj/Debug/net9.0/Discriminant.csproj.CoreCompileInputs.cache
+/home/picsartacademy/C#_code/task5/Discriminant/obj/Debug/net9.0/Discriminant.sourcelink.json
+/home/picsartacademy/C#_code/task5/Discriminant/obj/Debug/net9.0/Discriminant.dll
+/home/picsartacademy/C#_code/task5/Discriminant/obj/Debug/net9.0/refint/Discriminant.dll
+/home/picsartacademy/C#_code/task5/Discriminant/obj/Debug/net9.0/Discriminant.pdb
+/home/picsartacademy/C#_code/task5/Discriminant/obj/Debug/net9.0/Discriminant.genruntimeconfig.cache
+/home/picsartacademy/C#_code/task5/Discriminant/obj/Debug/net9.0/ref/Discriminant.dll

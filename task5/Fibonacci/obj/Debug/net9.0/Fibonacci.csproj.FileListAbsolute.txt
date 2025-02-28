@@ -1,0 +1,15 @@
+/home/picsartacademy/C#_code/task5/Fibonacci/obj/Debug/net9.0/Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+/home/picsartacademy/C#_code/task5/Fibonacci/obj/Debug/net9.0/Fibonacci.AssemblyInfoInputs.cache
+/home/picsartacademy/C#_code/task5/Fibonacci/obj/Debug/net9.0/Fibonacci.AssemblyInfo.cs
+/home/picsartacademy/C#_code/task5/Fibonacci/obj/Debug/net9.0/Fibonacci.csproj.CoreCompileInputs.cache
+/home/picsartacademy/C#_code/task5/Fibonacci/obj/Debug/net9.0/Fibonacci.sourcelink.json
+/home/picsartacademy/C#_code/task5/Fibonacci/bin/Debug/net9.0/Fibonacci
+/home/picsartacademy/C#_code/task5/Fibonacci/bin/Debug/net9.0/Fibonacci.deps.json
+/home/picsartacademy/C#_code/task5/Fibonacci/bin/Debug/net9.0/Fibonacci.runtimeconfig.json
+/home/picsartacademy/C#_code/task5/Fibonacci/bin/Debug/net9.0/Fibonacci.dll
+/home/picsartacademy/C#_code/task5/Fibonacci/bin/Debug/net9.0/Fibonacci.pdb
+/home/picsartacademy/C#_code/task5/Fibonacci/obj/Debug/net9.0/Fibonacci.dll
+/home/picsartacademy/C#_code/task5/Fibonacci/obj/Debug/net9.0/refint/Fibonacci.dll
+/home/picsartacademy/C#_code/task5/Fibonacci/obj/Debug/net9.0/Fibonacci.pdb
+/home/picsartacademy/C#_code/task5/Fibonacci/obj/Debug/net9.0/Fibonacci.genruntimeconfig.cache
+/home/picsartacademy/C#_code/task5/Fibonacci/obj/Debug/net9.0/ref/Fibonacci.dll
