@@ -1,0 +1,14 @@
+/Users/picsartacademy/C#/Container/HashTable/obj/Debug/net9.0/HashTable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/picsartacademy/C#/Container/HashTable/obj/Debug/net9.0/HashTable.AssemblyInfoInputs.cache
+/Users/picsartacademy/C#/Container/HashTable/obj/Debug/net9.0/HashTable.AssemblyInfo.cs
+/Users/picsartacademy/C#/Container/HashTable/obj/Debug/net9.0/HashTable.csproj.CoreCompileInputs.cache
+/Users/picsartacademy/C#/Container/HashTable/bin/Debug/net9.0/HashTable
+/Users/picsartacademy/C#/Container/HashTable/bin/Debug/net9.0/HashTable.deps.json
+/Users/picsartacademy/C#/Container/HashTable/bin/Debug/net9.0/HashTable.runtimeconfig.json
+/Users/picsartacademy/C#/Container/HashTable/bin/Debug/net9.0/HashTable.dll
+/Users/picsartacademy/C#/Container/HashTable/bin/Debug/net9.0/HashTable.pdb
+/Users/picsartacademy/C#/Container/HashTable/obj/Debug/net9.0/HashTable.dll
+/Users/picsartacademy/C#/Container/HashTable/obj/Debug/net9.0/refint/HashTable.dll
+/Users/picsartacademy/C#/Container/HashTable/obj/Debug/net9.0/HashTable.pdb
+/Users/picsartacademy/C#/Container/HashTable/obj/Debug/net9.0/HashTable.genruntimeconfig.cache
+/Users/picsartacademy/C#/Container/HashTable/obj/Debug/net9.0/ref/HashTable.dll

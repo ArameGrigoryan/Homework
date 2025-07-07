@@ -1,0 +1,14 @@
+/Users/picsartacademy/C#/Retake/Sort/obj/Debug/net9.0/Sourch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/picsartacademy/C#/Retake/Sort/obj/Debug/net9.0/Sourch.AssemblyInfoInputs.cache
+/Users/picsartacademy/C#/Retake/Sort/obj/Debug/net9.0/Sourch.AssemblyInfo.cs
+/Users/picsartacademy/C#/Retake/Sort/obj/Debug/net9.0/Sourch.csproj.CoreCompileInputs.cache
+/Users/picsartacademy/C#/Retake/Sort/bin/Debug/net9.0/Sourch
+/Users/picsartacademy/C#/Retake/Sort/bin/Debug/net9.0/Sourch.deps.json
+/Users/picsartacademy/C#/Retake/Sort/bin/Debug/net9.0/Sourch.runtimeconfig.json
+/Users/picsartacademy/C#/Retake/Sort/bin/Debug/net9.0/Sourch.dll
+/Users/picsartacademy/C#/Retake/Sort/bin/Debug/net9.0/Sourch.pdb
+/Users/picsartacademy/C#/Retake/Sort/obj/Debug/net9.0/Sourch.dll
+/Users/picsartacademy/C#/Retake/Sort/obj/Debug/net9.0/refint/Sourch.dll
+/Users/picsartacademy/C#/Retake/Sort/obj/Debug/net9.0/Sourch.pdb
+/Users/picsartacademy/C#/Retake/Sort/obj/Debug/net9.0/Sourch.genruntimeconfig.cache
+/Users/picsartacademy/C#/Retake/Sort/obj/Debug/net9.0/ref/Sourch.dll
